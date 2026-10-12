@@ -1,0 +1,11 @@
+# Ignore everything by default
+*
+
+# Keep only selected project files
+!.gitignore
+!pitch_analyzer.py
+!train_baseball.py
+!train_svm.py
+!requirements.txt
+!svm_model.pkl
+!svm_scaler.pkl
